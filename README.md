@@ -26,11 +26,11 @@ NFL 1st & Future – Playing Surface Analytics
 - Link: https://www.kaggle.com/competitions/nfl-playing-surface-analytics?
 
 NFL Big Data Bowl
-Large dataset including play‐by‐play tracking, game, player info; intended for exploratory analysis and varied predictive tasks. 
+- Large dataset including play‐by‐play tracking, game, player info; intended for exploratory analysis and varied predictive tasks. 
 - https://www.kaggle.com/competitions/nfl-big-data-bowl-2025
 
 NFL Punt Analytics (Head Injuries during Punt Plays)
-A detailed dataset of NFL punt plays including concussin injury data. 
+- A detailed dataset of NFL punt plays including concussin injury data. 
 - https://www.kaggle.com/competitions/NFL-Punt-Analytics-Competition
 
 
